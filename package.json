@@ -1,0 +1,21 @@
+{
+	"name": "gnuralnet-livetoair",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-gnuralnet-livetoair.git"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"@companion-module/base": "^1.0.1",
+		"axios": "^1.2.3",
+		"xml2js": "^0.4.23"
+	},
+	"devDependencies": {
+		"@companion-module/tools": "^0.5.1"
+	}
+}
