@@ -3,7 +3,7 @@
 	"name": "gnuralnet-livetoair",
 	"shortname": "lta",
 	"description": "Controls Live To Air",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"repository": "git+https://github.com/bitfocus/companion-module-gnuralnet-livetoair.git",
 	"bugs": "https://github.com/bitfocus/companion-module-gnuralnet-livetoair/issues",
